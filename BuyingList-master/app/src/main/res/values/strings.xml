@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="please_click_to_start">Please Click to Start</string>
+    <string name="start">Start</string>
+    <string name="Hello_Welcome_to_Buying_List">hello!!! welcome to_buying_list</string>
+    <string name="login">Login</string>
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">save</string>
+    <string name="name">Name</string>
+    <string name="factory">Factory</string>
+    <string name="hello_welcome_to_buying_list">Hello Welcome to Buying List</string>
+</resources>

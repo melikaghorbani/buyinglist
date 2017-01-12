@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">calculator_boys</string>
-    <string name="exit">exit</string>
-    <string name="c">C</string>
-    <string name="ce">CE</string>
-    <string name="something_wrong">Something went wrong!!!</string>
-</resources>
